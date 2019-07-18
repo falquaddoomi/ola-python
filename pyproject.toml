@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ola-python"
+name = "ola"
 version = "0.10.7"
 description = "Python bindings for OLA, available as a package"
 authors = ["Justin Cummins <justin@samosec.com>"]
